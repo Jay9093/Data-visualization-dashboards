@@ -12,4 +12,4 @@ If you'd like to contribute or add more dashboards, feel free to fork the reposi
 
 ---
 
-Thanks for reading! 😊
+Thank you! 😊
